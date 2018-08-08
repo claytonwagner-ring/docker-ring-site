@@ -1,0 +1,13 @@
+build
+node_modules
+bower_components
+shippable
+.gradle
+.idea
+.vertx
+.env
+.classpath
+.project
+.settings
+*.iml
+audit-db*
